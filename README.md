@@ -13,6 +13,10 @@ The project is part of my web development learning journey to practice layout de
 cafe-menu/
 ├── index.html
 └── style.css
+
+## 🖼️ Preview
+
+![Cafe Menu Preview](cafe-menu.png)
 ## 📌 Features
 
 - Clean, modern design inspired by real cafe menus  
